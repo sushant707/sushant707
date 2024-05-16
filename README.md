@@ -7,8 +7,6 @@ Hello! 👋 I'm Sushant, a self-taught web developer fueled by a passion for cre
 
 - 🌱 I’m currently learning **FullStack Web-Development**
 
-- 👨‍💻 All of my projects are available at (https://personal-portfolio-lemon-one-84.vercel.app/)
-
 - 📫 How to reach me **chavansushant794@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +21,6 @@ Hello! 👋 I'm Sushant, a self-taught web developer fueled by a passion for cre
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant707&show_icons=true&locale=en&layout=compact" alt="atharv96k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant707&show_icons=true&locale=en" alt="sushnat707" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
