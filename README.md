@@ -1,6 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://personal-portfolio-lemon-one-84.vercel.app/)
-<h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">A passionate Full-stack Developer</h3>
+# 💫 About Me:
+Hello! 👋 I'm Sushant, a self-taught web developer fueled by a passion for creating engaging and dynamic web experiences. I embarked on my web development journey through YouTube, Google, and various free resources, diving into the world of HTML, CSS, and JavaScript.<br>My ultimate goal is to become a full-stack developer, mastering both front-end and back-end technologies to create seamless and robust web applications. I'm constantly seeking new challenges and learning opportunities to further enhance my skills and expand my knowledge in the ever-evolving field of web development.
+
+
 <img align="right" alt="Coding" width = "400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv96k&label=Profile%20views&color=0e75b6&style=flat" alt="atharv96k" /> </p>
 
