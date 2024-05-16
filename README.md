@@ -7,9 +7,7 @@ Hello! 👋 I'm Sushant, a self-taught web developer fueled by a passion for cre
 
 - 🌱 I’m currently learning **FullStack Web-Development**
 
-- 👨‍💻 All of my projects are available at [](https://personal-portfolio-lemon-one-84.vercel.app/)
-
-- 💬 Ask me about **Reactjs, JavaScript**
+- 👨‍💻 All of my projects are available at (https://personal-portfolio-lemon-one-84.vercel.app/)
 
 - 📫 How to reach me **chavansushant794@gmail.com**
 
